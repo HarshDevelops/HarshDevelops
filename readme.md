@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quotopedia](https://github.com/HarshDevelops/Qutopedia)
 
-- 🌱 I’m currently learning **ejs,api,flutter**
+- 🌱 I’m currently learning **DevOps and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshDevelops?tab=repositories](https://github.com/HarshDevelops?tab=repositories)
 
