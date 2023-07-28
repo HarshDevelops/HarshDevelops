@@ -9,9 +9,9 @@ I am Harsh Srivastava😃. I am from Bengaluru,Karnataka and currently doing my 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [My Portfolio Website](http://harshdevelops.github.io/Portfolio/)
 * ✉️  You can contact me at [harsheydevs@gmail.com](mailto:harsheydevs@gmail.com)
-* 🚀  I'm currently working on [Portfolio Generator](http://github.com/HarshDevelops/Portfolio-Generator)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Portfolio Generator
+* 🚀  I'm currently working on [Portfolio Generator](https://github.com/HarshDevelops/LinkedInConnectBot)
+* 🧠  I'm learning DSA
+* 🤝  I'm open to collaborating on LinkedIn Connect Bot
 
 ### Skills
 
