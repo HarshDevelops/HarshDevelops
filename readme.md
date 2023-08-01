@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh Srivastava
+Hey There! My name is Harsh Srivastava
 ========================================================================================================================================
 
-Web Developer, Designer and Programmer
+Web Developer, Data analyst and Programmer!
 --------------------------------------
 
-I am Harsh Srivastava😃. I am from Bengaluru,Karnataka and currently doing my B.Tech from Vellore Institute Of Technology, Vellore 🏫. I love to explore and learn about new things
+I am from Bengaluru,Karnataka and currently doing my B.Tech from Vellore Institute Of Technology, Vellore 🏫. I love to explore and learn about new things
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [My Portfolio Website](http://harshdevelops.github.io/Portfolio/)
 * ✉️  You can contact me at [harsheydevs@gmail.com](mailto:harsheydevs@gmail.com)
-* 🚀  I'm currently working on [Portfolio Generator](https://github.com/HarshDevelops/LinkedInConnectBot)
+* 🚀  I'm currently working on [Chat application using Node.js and Holepunch](https://github.com/HarshDevelops/LinkedInConnectBot)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on LinkedIn Connect Bot
 
