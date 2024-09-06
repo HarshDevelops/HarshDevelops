@@ -10,7 +10,7 @@ I am from Bengaluru,Karnataka and currently doing my B.Tech from Vellore Institu
 * 🖥️  See my portfolio at [My Portfolio Website](http://harshdevelops.github.io/Portfolio/)
 * ✉️  You can contact me at [harsheydevs@gmail.com](mailto:harsheydevs@gmail.com)
 * 🚀  I'm currently working on [To-Do]([https://github.com/HarshDevelops/to-do](https://github.com/HarshDevelops/DevHub))
-* 🧠  I'm learning Angular.js
+* 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on LinkedIn Connect Bot
 
 ### Skills
