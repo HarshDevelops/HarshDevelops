@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0891b2,100:1c1917&height=150&section=header&text=Harsh%20Srivastava&fontSize=50&fontColor=ffffff" alt="header image"/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=+++Software+Engineer+@+TCS+Prime;AWS+Certified+Solutions+Architect;Web+Dev+%7C+Cloud+%7C+Data+Analytics" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=+ + +Software+Engineer+@+TCS+Prime;AWS+Certified+Solutions+Architect;Web+Dev+%7C+Cloud+%7C+Data+Analytics" alt="Typing SVG">
 </p>
 
 ---
