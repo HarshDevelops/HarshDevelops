@@ -18,6 +18,10 @@ Alongside professional work, I independently build and deploy software products 
 - Cut processing time from roughly 50 minutes to 20 minutes using bounded concurrency, retries and failure isolation.
 - Reduced the pipeline footprint from roughly 9 GB to 900 MB using Apache Avro.
 
+## Open Source Contributions
+
+- **[Apache Avro](https://github.com/apache/avro) (Core Serialization Engine):** Fixed memory safety and data correctness issues in `BytesWritableConverter` ([AVRO-4268](https://github.com/apache/avro/pull/70)) by enforcing strict logical length bounds on underlying byte buffers, preventing memory over-allocation and silent buffer padding corruption during high-throughput serialization.
+
 ## Products
 
 ### [Buglyst](https://buglyst.com)
