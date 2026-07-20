@@ -2,7 +2,7 @@
 
 **Java & Backend Engineer**
 
-I build production backend systems, distributed workflows, reliable data pipelines and independent software products. 
+I build production backend systems, distributed workflows, reliable data pipelines and independent software products.
 
 ## Professional Focus
 
