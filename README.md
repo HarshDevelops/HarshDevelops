@@ -66,7 +66,7 @@ A structured ranking and comparison platform for protein products.
 
 ## GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshDevelops&show_icons=true&hide_border=true&theme=default" height="150" alt="Harsh Srivastava GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDevelops&layout=compact&hide_border=true&theme=default" height="150" alt="Harsh Srivastava top languages" />
-</p>
+
+[![Harsh Srivastava GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDevelops&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harsh Srivastava top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDevelops&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
