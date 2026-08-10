@@ -66,7 +66,17 @@ A structured ranking and comparison platform for protein products.
 
 ## GitHub Activity
 
+## 📊 GitHub Activity & Metrics
 
-[![Harsh Srivastava GitHub stats](https://github-stats-extended-frontend-blush.vercel.app/api?username=HarshDevelops&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshDevelops&theme=react-dark" width="100%" />
+</p>
 
-[![Harsh Srivastava top languages](https://github-stats-extended-frontend-blush.vercel.app/api/top-langs/?username=HarshDevelops&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshDevelops&theme=2077" width="49%" />
+  <img src="https://github-stats-extended-frontend-blush.vercel.app/api/top-langs/?username=HarshDevelops&layout=compact&theme=dark" width="49%" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=HarshDevelops&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
