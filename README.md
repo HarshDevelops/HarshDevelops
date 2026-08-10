@@ -64,9 +64,12 @@ A structured ranking and comparison platform for protein products.
 - LeetCode: [leetcode.com/u/harshdevs](https://leetcode.com/u/harshdevs/)
 - Email: [harshworkofficial20@gmail.com](mailto:harshworkofficial20@gmail.com)
 
-## GitHub Activity
-
 ## 📊 GitHub Activity & Metrics
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/HarshDevelops/HarshDevelops/output/github-contribution-grid-snake-dark.svg)
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshDevelops&theme=react-dark" width="100%" />
